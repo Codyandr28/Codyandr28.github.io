@@ -1,0 +1,48 @@
+body {
+      margin: 0;
+      height: 100vh;
+      background-color: lightgray;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      position: relative;
+	color:#ffffff;
+
+}
+
+
+h1{
+  color: black;
+
+}
+p{
+  color: black;
+
+}
+
+img {
+   border-radius: 15px;
+}
+
+img {
+  width: 52.6%;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.box{
+  width: 50%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: grey;
+  border-radius: 0px;
+  border-color: darkgray;
+  text-align: center;
+}
+
+h2{
+  color: black;
+}
+
+p{position: center;
+}
+
